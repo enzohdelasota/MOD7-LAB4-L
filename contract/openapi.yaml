@@ -6,6 +6,7 @@ info:
   description: |
     API para gestionar cuentas bancarias de clientes.
     Permite consultar las cuentas asociadas a un cliente.
+    Prueba 1.
   contact:
     name: "Equipo de APIs"
     email: "apis@banco.com"
